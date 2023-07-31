@@ -10,6 +10,9 @@ u {
   text-decoration: rgb(75, 71, 71) solid underline;
 }
 
+.fa fa-star-half-full{
+  color:orange;
+}
 .fill{
   font-size: 15px;
 padding-top: 10%;
